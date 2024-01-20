@@ -1,34 +1,30 @@
-# Prog-visual2
-Entrega 2
-# Título del Proyecto
+
+# Programación visual
 
 ## Descripción
 
-Breve descripción del proyecto.
+Entrega 2, aplicación web moderna completa con un Front en HTML5, API Rest sobre Node/Express con autenticación y autorización utilizando JWT y base de datos MongoDB.
 
 ## Estado del Proyecto
 
-[![Estado del Proyecto](enlace-a-badge)](enlace-al-estado)
+[![Ejecución]
 
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+
 
 ## Instalación
 
-Instrucciones para instalar el proyecto.
+-[Descargar mongod de su pag oficial
+-Descargar cluster
+-Ejecutar mongod
 
 ## Uso
 
-Cómo usar el proyecto, ejemplos y capturas de pantalla.
+1-Registro y loggeo en mongoDB con autenticación y autorización JWT
+2-Acceso a datos de mongoDB según autorización
 
-## Contribución
 
-Cómo contribuir al proyecto, pautas de estilo de código.
 
-## Licencia
-
-Este proyecto está bajo la Licencia XYZ. Consulta el archivo [LICENSE](LICENSE) para más detalles.
