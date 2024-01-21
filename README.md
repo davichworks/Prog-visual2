@@ -51,6 +51,24 @@ Completado
 ![image](https://github.com/davichworks/Prog-visual2/assets/70800903/3a4430d8-68e0-4e02-a5ba-c0071eba002d)
 
 
+## Pasos que se han realizado
+
+### Cliente
+1- Crear form html login con un área donde mostrar información y form registro , crear un css guapo para ambos y crear los siguientes scripts para su funcionamiento
+2- Crear en js las acciones de los botones que serán tanto GETS y POST a un api rest y funciones para mostrar los datos por pantalla
+### Servidor
+3- Crear servidor express nodejs e iniciarlo en un puerto
+4- Crear archivo config con la configuración de nuestra base de datos, y la key secret para firmar los tokens
+5- Crear las rutas GET Y POST de nuestro servidor y realizar las funciones correspondientes antes enviar la respuesta
+6- Crear los modelos de los datos que vamos a utilizar, ajustandolo a mongodb 
+7- Crear el middleware del servidor, en este caso uno para validar el token y devolver su rol; y otro para validar el email y el rol 
+8- Crear los controladores, en este caso los que vamos a utilizar para la autentificacion(login/registro) y por otro lado los controladores para aportar la información al usuario dependiendo de su rol
+9- Importar todas las carpetas con sus archivos al servidor node 
+10- Descargar mongodb y MongoDBCluster, conectarse a mongodb://127.0.0.1:27017 y crear base de datos denominada "testdb" con la coleccion "users"
+11- Ejecutar server
+
+
+
 
 
 
